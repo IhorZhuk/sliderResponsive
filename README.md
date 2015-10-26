@@ -27,12 +27,12 @@ Most required styles are specified in the plugin itself. All you left to do is:
 $('.slider').sliderResponsive();
 ```
 ### Options
-Option | Defalut value | 
+Option | Defalut value | What it does
 -------|---------------|----------
-`anim` | 300|sets duration of sliding effect
-`pause` | 3000|pause duration
-`autoplay` | null|set to `on` to turn on autoplay
-`ratio` | null|set to `keep` to keep aspect ratio when window resizes
-`ulClass` | `slides-wrapper`|specifies class of the `ul` element
-`nextClass` | `sl-next`|specifies class of the element showing next slide
-`prevClass` | `sl-prev`|specifies class of the element showing previous slide
+`anim` | 300| sets duration of sliding effect
+`pause` | 3000| pause duration
+`autoplay` | null| set to `on` to turn on autoplay
+`ratio` | null| set to `keep` to keep aspect ratio when window resizes
+`ulClass` | `slides-wrapper`| specifies class of the `ul` element
+`nextClass` | `sl-next`| specifies class of the element showing next slide
+`prevClass` | `sl-prev`| specifies class of the element showing previous slide
