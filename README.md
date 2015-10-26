@@ -21,6 +21,7 @@ You can specify your own classes. Read **options** section
 Most required styles are specified in the plugin itself. All you left to do is:
 * specify `width` and `height` of the slider
 * properly position controls (`sl-prev` and `sl-next`). Otherwise they will be hidden.
+
 ### Call plugin
 ```javascript
 $('.slider').sliderResponsive();
